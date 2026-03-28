@@ -74,6 +74,8 @@ plt.show()
 
 ## Output:
 ![alt text](image.png)
+<img width="556" height="112" alt="Screenshot 2026-03-28 093404" src="https://github.com/user-attachments/assets/576de987-991f-463b-a21e-5ced08be7636" />
+<img width="284" height="103" alt="Screenshot 2026-03-28 093356" src="https://github.com/user-attachments/assets/d601651f-51f4-4085-84a7-104e5131faab" />
 
 
 ## Result:
